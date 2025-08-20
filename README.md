@@ -38,16 +38,6 @@ The dataset is well-balanced, with a nearly equal number of images in each class
 
 
 
-### Sample Images
-Below are sample images from each class.
-
-| COVID-19 Sample 1 | COVID-19 Sample 2 |
-| :---: | :---: |
-|  |  |
-
-| Normal Sample 1 | Normal Sample 2 |
-| :---: | :---: |
-|  |  |
 
 
 ## Methodology
