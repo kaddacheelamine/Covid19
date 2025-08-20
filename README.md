@@ -1,6 +1,3 @@
-Of course! Here is a comprehensive README.md file generated from the provided notebook pages.
-
----
 
 # COVID-19 Image Classification using Deep Learning
 
